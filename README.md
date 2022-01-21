@@ -15,6 +15,6 @@ For the project, we did the following:
 3) Clustered the states based on covariates (including COVID-19 cases/deaths) they shared in common.
     - We used principal component analysis to reduce the dimensionality of the data
     - We used the silhouette method to determine the optimal number of clusters present in the rotated data
-    - We used kMeans clustering to cluster the states
+    - We used k-means clustering to cluster the states
     
 Code for the project can be found in `COVID-19_Factors.ipynb`. The final project report can be viewed in `COVID-19_Factors_Report.pdf`.
