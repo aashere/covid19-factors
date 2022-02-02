@@ -14,7 +14,7 @@ For the project, we did the following:
 
 2) Used ridge regression to determine which of several covariates contributed the most to COVID-19 cases/deaths.
 
-3) Clustered the states based on covariates (including COVID-19 cases/deaths) they shared in common.
+3) Clustered the states based on shared characteristics.
     - We used principal component analysis to reduce the dimensionality of the data
     - We used the silhouette method to determine the optimal number of clusters present in the rotated data
     - We used k-means clustering to cluster the states
