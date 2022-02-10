@@ -2,6 +2,8 @@
 
 ### Analysis of socioeconomic and environmental factors leading to the spread of COVID-19
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 The goal of this project was to explore the effect of several covariates on COVID-19 cases and deaths across 50 U.S. states in 2020. We used a dataset collected by the authors of the following paper:
 
     Roy, Satyaki, and Preetam Ghosh. “Factors affecting COVID-19 infected and death rates inform
